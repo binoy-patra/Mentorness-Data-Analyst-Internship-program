@@ -24,8 +24,8 @@ The repository is divided into three main folders, each representing a specific 
 
 This internship provided hands-on experience in SQL, Power BI, and Python for data analysis and visualization. The projects undertaken during this program have significantly enhanced my skills and knowledge in the field of data analytics.
 
-For any questions or further information, please contact me at [your email address].
+For any questions or further information, please contact me at [binoypatra20@gmail.com].
 
 ---
 
-**Mentorness Data Analyst Internship Program** © 2024 by [Your Name]. All rights reserved.
+**Mentorness Data Analyst Internship Program** © 2024 by [Binoy Patra]. All rights reserved.
