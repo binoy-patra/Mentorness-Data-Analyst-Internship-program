@@ -21,7 +21,8 @@ The repository is divided into three main folders, each representing a specific 
 
 ## Achievements 
 
-![Certificates]([Task 1-Reel/Binoy Patra_Certificate_page-0001.jpg](https://github.com/binoy-patra/Mentorness-Data-Analyst-Internship-program/blob/main/Task%201-%20Reel/Binoy%20Patra_Certificate_page-0001.jpg))
+![Binoy Patra Certificate](https://github.com/binoy-patra/Mentorness-Data-Analyst-Internship-program/blob/main/Task%201-%20Reel/Binoy%20Patra_Certificate_page-0001.jpg)
+
 
 ## Conclusion
 
