@@ -19,6 +19,9 @@ The repository is divided into three main folders, each representing a specific 
 - **GitHub:** Used for version control and repository management.
 - **Canva:** Used for creating visual reports and presentations.
 
+## Achievements 
+
+![Certificates](Task 1-Reel/Binoy Patra_Certificate_page-0001.jpg)
 
 ## Conclusion
 
